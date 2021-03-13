@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Cv2Hj4fJB+DJgF3gDQY9jTAYcL76tV/47TYJehCBro3R2yuBVk4dyRmQSAyE8X2nEhVpM5JBOrDgc6LW1X4UA==",
+  "dgSpecHash": "vXWEZYgCeAEnRqygXdCKVo6d48spl9CkWARsPBYbqx57uopT+9RJGKr7sHvmyfD7l9r7P6Vc3pR3IXhd0VjEtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dvanaria\\Desktop\\first_project\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "C:\\cygwin\\home\\dvanaria\\Dropbox\\darron\\compsci\\sandbox\\github_hosted_projects\\aspnet_mvc_app\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dvanaria\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\dvanaria\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.4\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.4.nupkg.sha512",

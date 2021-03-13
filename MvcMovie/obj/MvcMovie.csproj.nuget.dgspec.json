@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dvanaria\\Desktop\\first_project\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\cygwin\\home\\dvanaria\\Dropbox\\darron\\compsci\\sandbox\\github_hosted_projects\\aspnet_mvc_app\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dvanaria\\Desktop\\first_project\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\cygwin\\home\\dvanaria\\Dropbox\\darron\\compsci\\sandbox\\github_hosted_projects\\aspnet_mvc_app\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dvanaria\\Desktop\\first_project\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\cygwin\\home\\dvanaria\\Dropbox\\darron\\compsci\\sandbox\\github_hosted_projects\\aspnet_mvc_app\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\dvanaria\\Desktop\\first_project\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\cygwin\\home\\dvanaria\\Dropbox\\darron\\compsci\\sandbox\\github_hosted_projects\\aspnet_mvc_app\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\dvanaria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dvanaria\\Desktop\\first_project\\MvcMovie\\obj\\",
+        "outputPath": "C:\\cygwin\\home\\dvanaria\\Dropbox\\darron\\compsci\\sandbox\\github_hosted_projects\\aspnet_mvc_app\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dvanaria\\AppData\\Roaming\\NuGet\\NuGet.Config"
